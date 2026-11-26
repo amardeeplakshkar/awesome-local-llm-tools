@@ -5,19 +5,19 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Entries](https://img.shields.io/badge/Entries-20-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-22-blue.svg)](#contents)
 
 **Keywords:** `local llm tools` · `run llms locally` · `local ai` · `ollama` · `llama.cpp` · `lm studio` · `run ai locally`
 
 ## Why This List
 
-Local LLMs let you run AI models on your own computer with privacy, no per-token cost and offline access. This list keeps it simple: 20 local LLM tools worth trying first, grouped by job, one line each.
+Local LLMs let you run AI models on your own computer with privacy, no per-token cost and offline access. This list keeps it simple: 22 local LLM tools worth trying first, grouped by job, one line each.
 
 ## Contents
 
-- Run Models Locally - 7 tools to run models on your own computer
+- Run Models Locally - 8 tools to run models on your own computer
 - Serve and Chat - 7 tools to serve models and chat with them
-- Local Coding and Helpers - 6 tools for coding and picking the right model
+- Local Coding and Helpers - 7 tools for coding and picking the right model
 
 ## Run Models Locally
 
@@ -30,6 +30,7 @@ Local LLMs let you run AI models on your own computer with privacy, no per-token
 | [GPT4All](https://github.com/nomic-ai/gpt4all) | Run local LLMs privately on everyday desktops and laptops |
 | [LocalAI](https://github.com/mudler/LocalAI) | Open source local AI server compatible with the OpenAI API |
 | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | Easy local LLM runner with a built in chat interface |
+| [Project Maya](https://github.com/mw00/project-maya) | Runs very large MoE models on your own NVIDIA or AMD GPUs with browser chat and compatible APIs, free and open source |
 
 ## Serve and Chat
 
@@ -53,6 +54,7 @@ Local LLMs let you run AI models on your own computer with privacy, no per-token
 | [llmfit](https://github.com/AlexsJones/llmfit) | Find which local models fit and run well on your hardware |
 | [Bonsai](https://github.com/PrismML-Eng/Bonsai-demo) | Compact local models for running coding agents on your own machine |
 | [Magnitude](https://github.com/magnitudedev/magnitude) | Local inference engine that runs larger models using your SSD |
+| [Songe](https://github.com/sous-labs/songe) | Local training engine that fine-tunes a LoRA adapter for your local model while your agent is idle, free and open source |
 
 ## Contributing
 
