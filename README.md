@@ -41,7 +41,7 @@ Local LLMs let you run AI models on your own computer with privacy, no per-token
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self hosted web interface for chatting with local models |
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | Local AI app to chat with your documents using local models |
 | [TextGen](https://github.com/oobabooga/textgen) | Web interface for running and experimenting with local LLMs |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | Desktop AI client for local and remote models |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | Desktop AI client for local and remote models in one app |
 | [Lemonade](https://github.com/lemonade-sdk/lemonade) | Local LLM server with GPU and NPU acceleration |
 
 ## Local Coding and Helpers
@@ -52,6 +52,19 @@ Local LLMs let you run AI models on your own computer with privacy, no per-token
 | [Aider](https://github.com/Aider-AI/aider) | AI pair programming in your terminal with local model support |
 | [Cline](https://github.com/cline/cline) | AI coding agent in VS Code that can run with local models |
 | [llmfit](https://github.com/AlexsJones/llmfit) | Find which local models fit and run well on your hardware |
-| [Bonsai](https://github.com/PrismML-Eng/Bonsai-demo) | Compact local models for running coding agents on your device |
-| [Magnitude](https://github.com/magnitudedev/magnitude) | Local inference engine that runs larger models on consumer hardware |
-| [Songe](https://github.com/sous-labs/songe) | Local training engine that fine-tunes a LoRA adapter for a small model on your own Mac |
+| [Bonsai](https://github.com/PrismML-Eng/Bonsai-demo) | Compact local models for running coding agents on your own machine |
+| [Magnitude](https://github.com/magnitudedev/magnitude) | Local inference engine that runs larger models using your SSD |
+| [Songe](https://github.com/sous-labs/songe) | Local training engine that fine-tunes a LoRA adapter for your local model while your agent is idle, free and open source |
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. The short version:
+
+- Add an entry as one line in the right table in this format: `| [Name](URL) | What it does |`
+- The tool must be a real tool for running LLMs locally
+- One entry per tool
+- No duplicates
+
+## License
+
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - public domain. Use freely, no attribution required.
